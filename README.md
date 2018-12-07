@@ -9,3 +9,4 @@ Some example & exercide code (Reference https://github.com/ageron/handson-ml)
   06. Decision Trees
   07. Ensemble Learning and Random Forests
   08. Dimensionality Reduction
+  09. Up and running with TensorFlow
