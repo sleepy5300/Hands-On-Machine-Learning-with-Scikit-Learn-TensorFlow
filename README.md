@@ -11,3 +11,5 @@ Some example & exercide code (Reference https://github.com/ageron/handson-ml)
   08. Dimensionality Reduction
   09. Up and running with TensorFlow
   10. Introduction to Artificial Neural Networks
+  11. Deep Learning
+  12. Distributed TensorFlow(Skipped)
