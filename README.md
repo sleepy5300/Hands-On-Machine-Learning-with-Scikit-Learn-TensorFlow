@@ -13,3 +13,5 @@ Some example & exercide code (Reference https://github.com/ageron/handson-ml)
   10. Introduction to Artificial Neural Networks
   11. Deep Learning
   12. Distributed TensorFlow(Skipped)
+  13. Convolutional Neural Networks
+  14. Recurrent Neural Networks
