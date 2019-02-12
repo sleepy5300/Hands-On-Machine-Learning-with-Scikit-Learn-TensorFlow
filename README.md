@@ -15,3 +15,5 @@ Some example & exercide code (Reference https://github.com/ageron/handson-ml)
   12. Distributed TensorFlow(Skipped)
   13. Convolutional Neural Networks
   14. Recurrent Neural Networks
+  15. Autoencoders
+  16. Reinforcement Learning(Skipped)
